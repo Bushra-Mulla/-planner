@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bushra-mulla/planner./static/css/main.f5cf9c34.chunk.css",
+    "main.js": "/bushra-mulla/planner./static/js/main.531f0321.chunk.js",
+    "main.js.map": "/bushra-mulla/planner./static/js/main.531f0321.chunk.js.map",
+    "runtime-main.js": "/bushra-mulla/planner./static/js/runtime-main.c6e954a3.js",
+    "runtime-main.js.map": "/bushra-mulla/planner./static/js/runtime-main.c6e954a3.js.map",
+    "static/css/2.ecab58f7.chunk.css": "/bushra-mulla/planner./static/css/2.ecab58f7.chunk.css",
+    "static/js/2.cb455e81.chunk.js": "/bushra-mulla/planner./static/js/2.cb455e81.chunk.js",
+    "static/js/2.cb455e81.chunk.js.map": "/bushra-mulla/planner./static/js/2.cb455e81.chunk.js.map",
+    "static/js/3.4b8f39cd.chunk.js": "/bushra-mulla/planner./static/js/3.4b8f39cd.chunk.js",
+    "static/js/3.4b8f39cd.chunk.js.map": "/bushra-mulla/planner./static/js/3.4b8f39cd.chunk.js.map",
+    "index.html": "/bushra-mulla/planner./index.html",
+    "static/css/2.ecab58f7.chunk.css.map": "/bushra-mulla/planner./static/css/2.ecab58f7.chunk.css.map",
+    "static/css/main.f5cf9c34.chunk.css.map": "/bushra-mulla/planner./static/css/main.f5cf9c34.chunk.css.map",
+    "static/js/2.cb455e81.chunk.js.LICENSE.txt": "/bushra-mulla/planner./static/js/2.cb455e81.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bushra-mulla/planner./static/media/bg.c37079b0.jpg",
+    "static/media/all.css": "/bushra-mulla/planner./static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e954a3.js",
+    "static/css/2.ecab58f7.chunk.css",
+    "static/js/2.cb455e81.chunk.js",
+    "static/css/main.f5cf9c34.chunk.css",
+    "static/js/main.531f0321.chunk.js"
+  ]
+}
