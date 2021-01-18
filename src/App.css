@@ -1,0 +1,135 @@
+body {
+}
+.App {
+  /* text-align: center; */
+  height: 100%;
+  width: 100%;
+}
+.nav {
+  position: fixed;
+  display: flex;
+  width: 250px;
+  width: 20%;
+  background: #042331;
+  transition: all 0.5s ease;
+  font-size: 26px;
+  height: 100%;
+  background: linear-gradient(#063146, #061218);
+}
+
+.nav header {
+  font-size: 22px;
+  color: white;
+  line-height: 70px;
+  background: #063146;
+  user-select: none;
+  text-align: center;
+}
+.sidebar {
+  width: 100%;
+  height: 100%;
+}
+.nav ul {
+  display: block;
+  height: 100%;
+  width: 100%;
+  line-height: 65px;
+  font-size: 20px;
+  color: white;
+  padding-left: 40px;
+  box-sizing: border-box;
+  border-bottom: 1px solid black;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  transition: 0.4s;
+  list-style: none;
+}
+li {
+  width: 100%;
+  margin: 0;
+  padding: "40px";
+  color: aliceblue;
+}
+li:hover {
+  padding-left: 20px;
+}
+.main {
+  overflow-y: scroll;
+
+  position: fixed;
+  width: 80%;
+  text-align: center;
+  background-image: url(./img/bg.jpg);
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-size: cover;
+  left: 245px;
+  flex: 1;
+  padding: "10px";
+  height: 100%;
+}
+.Scheduler {
+  background-color: rgba(5, 10, 17, 0.76);
+  /* rgba(5, 5, 17, 0.76); */
+  margin: 40px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-size: 16px;
+}
+h5 {
+  text-align: center;
+}
+
+.state {
+  position: absolute;
+  display: inline-block;
+  right: 15px;
+  bottom: 15px;
+  background-color: transparent;
+  align-items: center;
+}
+
+.summary {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.568);
+  text-align: left;
+  padding: 10px;
+  margin: 30px;
+  width: 50%;
+  max-height: 150px;
+  display: inline-block;
+}
+
+.task-list-filter {
+  top: 30px;
+  flex-basis: 50%;
+  flex-grow: 1;
+  background-color: #ccc;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 3px;
+  margin: 0 0 0.1em;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  width: 150px;
+  display: inline;
+  margin: 10px;
+}
+.task-list-filter.is-active {
+  background-color: rgba(48, 62, 192, 0.75);
+}
+/* .yellow {
+  width: 50px;
+  background-color: bisque;
+}
+.green {
+  width: 50px;
+  background-color: cadetblue;
+} */
+#start {
+  background-color: rgba(255, 228, 196, 0.445);
+}
+#completed {
+  background-color: rgba(95, 158, 160, 0.397);
+}
