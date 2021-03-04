@@ -1,6 +1,6 @@
 # planner
 
-A basic web to manage the teamwork or your own work where you can find your tasks
+A basic web to manage your tasks
 So you can Follow up on workflow and Distribute tasks to the team
 
 ## Getting Started
